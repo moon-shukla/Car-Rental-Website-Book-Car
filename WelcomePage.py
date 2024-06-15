@@ -1,4 +1,4 @@
-# page zero
+# welcome page
 from tkinter import *
 import tkinter.messagebox
 
